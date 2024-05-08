@@ -1,5 +1,5 @@
 ## Sistema de Recomendación de Restaurantes para los Distritos de la Ciudad de Lima 🍽️🌆
-![Imagen de NAILS](https://github.com/katiaMOC/Sistema_recomendacion_restaurantes_lima/blob/main/img/portada1.jpg) 
+![Imagen de NAILS](https://github.com/katiaMOC/Sistema_recomendacion_restaurantes_lima/blob/main/img/Portada1.jpg) 
 
 # Objetivo 🎯
 El objetivo principal de nuestro sistema de recomendación es ayudar a los usuarios a descubrir los mejores restaurantes en los distintos distritos de Lima. Queremos que la experiencia gastronómica sea memorable y deliciosa para todos.
